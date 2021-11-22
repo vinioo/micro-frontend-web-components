@@ -38,4 +38,4 @@ npm start
 ```
 [http://localhost:5000](http://localhost:5000)
 
-Special thanks to @kitson.mac [@kitson.mac](https://medium.com/@kitson.mac/create-micro-frontends-using-web-components-with-support-for-angular-and-react-2d6db18f557a?source=friends_link&sk=642e86f203d58724d63d9d98aeb11476).
+Special thanks to [@kitson.mac](https://medium.com/@kitson.mac/create-micro-frontends-using-web-components-with-support-for-angular-and-react-2d6db18f557a?source=friends_link&sk=642e86f203d58724d63d9d98aeb11476).
